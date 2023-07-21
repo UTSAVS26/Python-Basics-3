@@ -1,0 +1,4 @@
+Itemno.,Itemname,Price
+A01,Pencil,25
+A02,Pen,75
+A03,Eraser,15

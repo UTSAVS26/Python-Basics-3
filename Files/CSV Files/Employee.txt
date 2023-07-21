@@ -1,0 +1,7 @@
+Empno,EmpName,Designation,Salary
+1,David,Manager,48000
+2,Julia,Manager,35000
+3,Sophia,Accountant,28000
+4,Wickey,Technician,40000
+5,Wayne,Sales Rep,33000
+6,Zack,Junior Rep,28000

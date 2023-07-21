@@ -1,0 +1,6 @@
+Q1 Write  a  menu driven program to 
+     (i) Write the content into a text file named (‘notes.txt’) 
+     (ii) Display the number of lowercase letter and digit in it.  
+     (iii) Display the number of words starting with A or P. 
+
+Q2 Write a menu driven program to write the content into a binary file student (rno, name , marks of three subject, their total).  	      Display the content of those students whose name is entered by user.  
